@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW Basic App Github", "HW Basic App Github\HW Basic App Github.csproj", "{4B003ECA-DB83-4899-A963-705EF195DAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Basic_App_Core.Tests", "HW_Basic_App_Core.Tests\HW_Basic_App_Core.Tests.csproj", "{B8154864-81EE-4BAA-9401-93F7EB9FA8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B003ECA-DB83-4899-A963-705EF195DAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B003ECA-DB83-4899-A963-705EF195DAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B003ECA-DB83-4899-A963-705EF195DAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B003ECA-DB83-4899-A963-705EF195DAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8154864-81EE-4BAA-9401-93F7EB9FA8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8154864-81EE-4BAA-9401-93F7EB9FA8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8154864-81EE-4BAA-9401-93F7EB9FA8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8154864-81EE-4BAA-9401-93F7EB9FA8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0765CDCC-57ED-4F4B-8603-6E76CFBA2509}
+	EndGlobalSection
+EndGlobal
